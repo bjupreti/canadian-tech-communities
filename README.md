@@ -1,6 +1,6 @@
 # Canadian Tech Communities
 
-Opensourced list of Tech Communities around Canada separated by major cities
+Opensourced list of Tech Communities separated by major cities in Canada
 
 ## Vancouver, BC
 
