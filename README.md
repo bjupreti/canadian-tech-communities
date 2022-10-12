@@ -2,10 +2,6 @@
 
 Opensourced list of Tech Communities around Canada separated by major cities
 
-## Inspiration
-Thanks to [jenndryden](https://github.com/jenndryden) who made a similar document for [Canadian Tech Internships](https://github.com/jenndryden/Canadian-Tech-Internships-Summer-2023).
-
-
 ## Vancouver, BC
 
 | Name | Short Description / Interests |
@@ -75,6 +71,9 @@ Thanks to [jenndryden](https://github.com/jenndryden) who made a similar documen
 | [TechTO](https://www.techto.org/) | Canada’s tech community |
 
 ---
+
+## Inspiration
+Formatting inspired from [geshan](https://github.com/geshan/au-companies-providing-work-visa-sponsorship) and [jenndryden](https://github.com/jenndryden/Canadian-Tech-Internships-Summer-2023).
 
 ## PRs Welcome
 
