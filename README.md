@@ -21,26 +21,27 @@ Opensourced list of Tech Communities separated by major cities in Canada
 | Name | Short Description / Interests |
 |------|-------------------------------|
 | [Atlassian Community - Toronto](https://ace.atlassian.com/toronto/) | Jira, Agile, Confluence |
-| [TechTO](https://www.techto.org/) | Canada’s tech community |
+| [Microsoft Reactor Toronto](https://www.meetup.com/microsoft-reactor-toronto/) | Networking, Workshops, Skills, Events |
+| [TechTO](https://www.techto.org/) | Startup, Networking, Events |
 
 ## Ottawa, ON
 
 | Name | Short Description / Interests |
 |------|-------------------------------|
-| [TechTO](https://www.techto.org/) | Canada’s tech community |
+| [TechTO](https://www.techto.org/) | Startup, Networking, Events |
 
 ## Kitchener-Waterloo, ON
 
 | Name | Short Description / Interests |
 |------|-------------------------------|
 | [Atlassian Community - Kitchener-Waterloo](https://ace.atlassian.com/kitchener-waterloo/) | Jira, Agile, Confluence |
-| [TechTO](https://www.techto.org/) | Canada’s tech community |
+| [TechTO](https://www.techto.org/) | Startup, Networking, Events |
 
 ## Hamilton, ON
 
 | Name | Short Description / Interests |
 |------|-------------------------------|
-
+| [TechTO](https://www.techto.org/) | Startup, Networking, Events |
 
 ---
 
@@ -49,7 +50,7 @@ Opensourced list of Tech Communities separated by major cities in Canada
 | Name | Short Description / Interests |
 |------|-------------------------------|
 | [Atlassian Community - Montreal](https://ace.atlassian.com/montreal/) | Jira, Agile, Confluence |
-| [TechTO](https://www.techto.org/) | Canada’s tech community |
+| [TechTO](https://www.techto.org/) | Startup, Networking, Events |
 
 ## Quebec City, QC
 
@@ -63,7 +64,7 @@ Opensourced list of Tech Communities separated by major cities in Canada
 
 | Name | Short Description / Interests |
 |------|-------------------------------|
-
+| [TechTO](https://www.techto.org/) | Startup, Networking, Events |
 
 ---
 
@@ -71,7 +72,7 @@ Opensourced list of Tech Communities separated by major cities in Canada
 
 | Name | Short Description / Interests |
 |------|-------------------------------|
-
+| [TechTO](https://www.techto.org/) | Startup, Networking, Events |
 
 ---
 
