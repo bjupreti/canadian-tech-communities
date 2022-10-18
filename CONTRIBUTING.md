@@ -11,7 +11,7 @@ If you are interested in adding a new slack group, please add it to the README.
 ## Format
 
 ```
-- [Community Name](https://communitywebsite.com) | Tech, JavaScript, Startup | Social Media Links
+- [Community Name](https://communitywebsite.com) | Tech, JavaScript, Startup | [LinkedIn](https://www.linkedin.com/company/companyname/) [Twitter](https://twitter.com/companyname)
 ```
 
 Pull requests will be accepted if it follows the [format](#format).
