@@ -25,6 +25,7 @@ Crowdsourced list of Tech Communities separated by major cities in Canada
 | [TechTO](https://www.techto.org/) | Startup, Networking, Events | [LinkedIn](https://www.linkedin.com/company/techtorontoorg/) [Twitter](https://twitter.com/techto)
 | [React + Native Toronto](https://www.meetup.com/Toronto-React-Native/) | JavaScript, React, React Native | [Meetup](https://www.meetup.com/Toronto-React-Native/) [Discord](https://discord.com/invite/KcxDrQA)
 | [Tech At Scale](https://www.meetup.com/tech-at-scale-toronto-meetup/) | Technology, Scalability, Performance | [Meetup](https://www.meetup.com/tech-at-scale-toronto-meetup/)
+| [APIs and IPAs](https://www.meetup.com/apis-and-ipas/) | Technology, Networking | [Meetup](https://www.meetup.com/apis-and-ipas/)
 
 ## Ottawa, ON
 
