@@ -6,13 +6,13 @@ Crowdsourced list of Tech Communities separated by major cities in Canada
 
 | Name | Short Description / Interests | Online Presence |
 |------|-------------------------------|-----------------|
-| [Atlassian Community - Vancouver](https://ace.atlassian.com/vancouver/) | Jira, Agile, Confluence |
+| [Atlassian Community - Vancouver](https://ace.atlassian.com/vancouver/) | Jira, Agile, Confluence | [Web](https://ace.atlassian.com/vancouver/)
 
 ## Victoria, BC
 
 | Name | Short Description / Interests | Online Presence |
 |------|-------------------------------|-----------------|
-| [TechTO](https://www.techto.org/) | Startup, Networking, Events |
+| [TechTO](https://www.techto.org/) | Startup, Networking, Events | [LinkedIn](https://www.linkedin.com/company/techtorontoorg/) [Twitter](https://twitter.com/techto)
 
 ---
 
@@ -20,7 +20,7 @@ Crowdsourced list of Tech Communities separated by major cities in Canada
 
 | Name | Short Description / Interests | Online Presence |
 |------|-------------------------------|-----------------|
-| [Atlassian Community - Toronto](https://ace.atlassian.com/toronto/) | Jira, Agile, Confluence |
+| [Atlassian Community - Toronto](https://ace.atlassian.com/toronto/) | Jira, Agile, Confluence | [Web](https://ace.atlassian.com/toronto/)
 | [Microsoft Reactor Toronto](https://www.meetup.com/microsoft-reactor-toronto/) | Networking, Workshops, Skills, Events | [Web](https://developer.microsoft.com/en-us/reactor/) [Meetup](https://www.meetup.com/microsoft-reactor-toronto/)
 | [TechTO](https://www.techto.org/) | Startup, Networking, Events | [LinkedIn](https://www.linkedin.com/company/techtorontoorg/) [Twitter](https://twitter.com/techto)
 | [React + Native Toronto](https://www.meetup.com/Toronto-React-Native/) | JavaScript, React, React Native | [Meetup](https://www.meetup.com/Toronto-React-Native/) [Discord](https://discord.com/invite/KcxDrQA)
@@ -37,7 +37,7 @@ Crowdsourced list of Tech Communities separated by major cities in Canada
 
 | Name | Short Description / Interests | Online Presence |
 |------|-------------------------------|-----------------|
-| [Atlassian Community - Kitchener-Waterloo](https://ace.atlassian.com/kitchener-waterloo/) | Jira, Agile, Confluence |
+| [Atlassian Community - Kitchener-Waterloo](https://ace.atlassian.com/kitchener-waterloo/) | Jira, Agile, Confluence | [Web](https://ace.atlassian.com/kitchener-waterloo/)
 | [TechTO](https://www.techto.org/) | Startup, Networking, Events | [LinkedIn](https://www.linkedin.com/company/techtorontoorg/) [Twitter](https://twitter.com/techto)
 
 ## Hamilton, ON
@@ -52,14 +52,14 @@ Crowdsourced list of Tech Communities separated by major cities in Canada
 
 | Name | Short Description / Interests | Online Presence |
 |------|-------------------------------|-----------------|
-| [Atlassian Community - Montreal](https://ace.atlassian.com/montreal/) | Jira, Agile, Confluence |
+| [Atlassian Community - Montreal](https://ace.atlassian.com/montreal/) | Jira, Agile, Confluence | [Web](https://ace.atlassian.com/montreal/)
 | [TechTO](https://www.techto.org/) | Startup, Networking, Events | [LinkedIn](https://www.linkedin.com/company/techtorontoorg/) [Twitter](https://twitter.com/techto)
 
 ## Quebec City, QC
 
 | Name | Short Description / Interests | Online Presence |
 |------|-------------------------------|-----------------|
-| [Atlassian Community - Quebec City](https://ace.atlassian.com/quebec-city/) | Jira, Agile, Confluence |
+| [Atlassian Community - Quebec City](https://ace.atlassian.com/quebec-city/) | Jira, Agile, Confluence | [Web](https://ace.atlassian.com/quebec-city/)
 
 ---
 
@@ -83,7 +83,7 @@ Crowdsourced list of Tech Communities separated by major cities in Canada
 
 | Name | Short Description / Interests | Online Presence |
 |------|-------------------------------|-----------------|
-| [Atlassian Community - Winnipeg](https://ace.atlassian.com/winnipeg/) | Jira, Agile, Confluence |
+| [Atlassian Community - Winnipeg](https://ace.atlassian.com/winnipeg/) | Jira, Agile, Confluence | [Web](https://ace.atlassian.com/winnipeg/)
 
 ---
 
