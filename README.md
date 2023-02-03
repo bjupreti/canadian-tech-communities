@@ -23,6 +23,7 @@ Crowdsourced list of Tech Communities separated by major cities in Canada
 | [Atlassian Community - Toronto](https://ace.atlassian.com/toronto/) | Jira, Agile, Confluence | [Web](https://ace.atlassian.com/toronto/)
 | [Microsoft Reactor Toronto](https://www.meetup.com/microsoft-reactor-toronto/) | Networking, Workshops, Skills, Events | [Web](https://developer.microsoft.com/en-us/reactor/) [Meetup](https://www.meetup.com/microsoft-reactor-toronto/)
 | [TechTO](https://www.techto.org/) | Startup, Networking, Events | [LinkedIn](https://www.linkedin.com/company/techtorontoorg/) [Twitter](https://twitter.com/techto)
+| [TechinTO](https://www.meetup.com/techinto/) | Technology, Networking | [Meetup](https://www.meetup.com/techinto/) [Instagram](https://www.instagram.com/techinto.event/)
 | [React + Native Toronto](https://www.meetup.com/Toronto-React-Native/) | JavaScript, React, React Native | [Meetup](https://www.meetup.com/Toronto-React-Native/) [Discord](https://discord.com/invite/KcxDrQA)
 | [Tech At Scale](https://www.meetup.com/tech-at-scale-toronto-meetup/) | Technology, Scalability, Performance | [Meetup](https://www.meetup.com/tech-at-scale-toronto-meetup/)
 | [APIs and IPAs](https://www.meetup.com/apis-and-ipas/) | Technology, Networking | [Meetup](https://www.meetup.com/apis-and-ipas/)
