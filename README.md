@@ -27,6 +27,8 @@ Crowdsourced list of Tech Communities separated by major cities in Canada
 | [React + Native Toronto](https://www.meetup.com/Toronto-React-Native/) | JavaScript, React, React Native | [Meetup](https://www.meetup.com/Toronto-React-Native/) [Discord](https://discord.com/invite/KcxDrQA)
 | [Tech At Scale](https://www.meetup.com/tech-at-scale-toronto-meetup/) | Technology, Scalability, Performance | [Meetup](https://www.meetup.com/tech-at-scale-toronto-meetup/)
 | [APIs and IPAs](https://www.meetup.com/apis-and-ipas/) | Technology, Networking | [Meetup](https://www.meetup.com/apis-and-ipas/)
+| [Toronto HashiCorp User Group](https://www.meetup.com/toronto-hashicorp-user-group/) | Cloud, IaC, Security | [Meetup](https://www.meetup.com/toronto-hashicorp-user-group/)
+| [Cloud Native Community Group - Toronto](https://community.cncf.io/toronto/) | CNCF, Cloud, K8s, Docker | [Discover Clour Native Community Groups](https://community.cncf.io/) 
 
 ## Ottawa, ON
 
