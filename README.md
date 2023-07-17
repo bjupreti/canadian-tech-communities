@@ -21,14 +21,17 @@ Crowdsourced list of Tech Communities separated by major cities in Canada
 | Name | Short Description / Interests | Online Presence |
 |------|-------------------------------|-----------------|
 | [Atlassian Community - Toronto](https://ace.atlassian.com/toronto/) | Jira, Agile, Confluence | [Web](https://ace.atlassian.com/toronto/)
+| [APIs and IPAs](https://www.meetup.com/apis-and-ipas/) | Technology, Networking | [Meetup](https://www.meetup.com/apis-and-ipas/)
+| [AWS User Group - Toronto](https://www.meetup.com/toronto-aws-users-united/) | AWS, Cloud, Infrastructure, Server | [Meetup](https://www.meetup.com/toronto-aws-users-united/)
+| [Cloud Native Community Group - Toronto](https://community.cncf.io/toronto/) | CNCF, Cloud, K8s, Docker | [Discover Cloud Native Community Groups](https://community.cncf.io/) 
 | [Microsoft Reactor Toronto](https://www.meetup.com/microsoft-reactor-toronto/) | Networking, Workshops, Skills, Events | [Web](https://developer.microsoft.com/en-us/reactor/) [Meetup](https://www.meetup.com/microsoft-reactor-toronto/)
-| [TechTO](https://www.techto.org/) | Startup, Networking, Events | [LinkedIn](https://www.linkedin.com/company/techtorontoorg/) [Twitter](https://twitter.com/techto)
-| [TechinTO](https://www.meetup.com/techinto/) | Technology, Networking | [Meetup](https://www.meetup.com/techinto/) [Instagram](https://www.instagram.com/techinto.event/)
+| [HashiCorp User Group - Toronto](https://www.meetup.com/toronto-hashicorp-user-group/) | Cloud, IaC, Security | [Meetup](https://www.meetup.com/toronto-hashicorp-user-group/)
 | [React + Native Toronto](https://www.meetup.com/Toronto-React-Native/) | JavaScript, React, React Native | [Meetup](https://www.meetup.com/Toronto-React-Native/) [Discord](https://discord.com/invite/KcxDrQA)
 | [Tech At Scale](https://www.meetup.com/tech-at-scale-toronto-meetup/) | Technology, Scalability, Performance | [Meetup](https://www.meetup.com/tech-at-scale-toronto-meetup/)
-| [APIs and IPAs](https://www.meetup.com/apis-and-ipas/) | Technology, Networking | [Meetup](https://www.meetup.com/apis-and-ipas/)
-| [Toronto HashiCorp User Group](https://www.meetup.com/toronto-hashicorp-user-group/) | Cloud, IaC, Security | [Meetup](https://www.meetup.com/toronto-hashicorp-user-group/)
-| [Cloud Native Community Group - Toronto](https://community.cncf.io/toronto/) | CNCF, Cloud, K8s, Docker | [Discover Cloud Native Community Groups](https://community.cncf.io/) 
+| [TechinTO](https://www.meetup.com/techinto/) | Technology, Networking | [Meetup](https://www.meetup.com/techinto/) [Instagram](https://www.instagram.com/techinto.event/)
+| [TechTO](https://www.techto.org/) | Startup, Networking, Events | [LinkedIn](https://www.linkedin.com/company/techtorontoorg/) [Twitter](https://twitter.com/techto)
+
+--
 
 ## Ottawa, ON
 
@@ -36,12 +39,16 @@ Crowdsourced list of Tech Communities separated by major cities in Canada
 |------|-------------------------------|-----------------|
 | [TechTO](https://www.techto.org/) | Startup, Networking, Events | [LinkedIn](https://www.linkedin.com/company/techtorontoorg/) [Twitter](https://twitter.com/techto)
 
+--
+
 ## Kitchener-Waterloo, ON
 
 | Name | Short Description / Interests | Online Presence |
 |------|-------------------------------|-----------------|
 | [Atlassian Community - Kitchener-Waterloo](https://ace.atlassian.com/kitchener-waterloo/) | Jira, Agile, Confluence | [Web](https://ace.atlassian.com/kitchener-waterloo/)
 | [TechTO](https://www.techto.org/) | Startup, Networking, Events | [LinkedIn](https://www.linkedin.com/company/techtorontoorg/) [Twitter](https://twitter.com/techto)
+
+--
 
 ## Hamilton, ON
 
@@ -57,6 +64,8 @@ Crowdsourced list of Tech Communities separated by major cities in Canada
 |------|-------------------------------|-----------------|
 | [Atlassian Community - Montreal](https://ace.atlassian.com/montreal/) | Jira, Agile, Confluence | [Web](https://ace.atlassian.com/montreal/)
 | [TechTO](https://www.techto.org/) | Startup, Networking, Events | [LinkedIn](https://www.linkedin.com/company/techtorontoorg/) [Twitter](https://twitter.com/techto)
+
+--
 
 ## Quebec City, QC
 
