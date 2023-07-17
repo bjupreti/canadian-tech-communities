@@ -8,6 +8,8 @@ Crowdsourced list of Tech Communities separated by major cities in Canada
 |------|-------------------------------|-----------------|
 | [Atlassian Community - Vancouver](https://ace.atlassian.com/vancouver/) | Jira, Agile, Confluence | [Web](https://ace.atlassian.com/vancouver/)
 
+---
+
 ## Victoria, BC
 
 | Name | Short Description / Interests | Online Presence |
@@ -31,7 +33,7 @@ Crowdsourced list of Tech Communities separated by major cities in Canada
 | [TechinTO](https://www.meetup.com/techinto/) | Technology, Networking | [Meetup](https://www.meetup.com/techinto/) [Instagram](https://www.instagram.com/techinto.event/)
 | [TechTO](https://www.techto.org/) | Startup, Networking, Events | [LinkedIn](https://www.linkedin.com/company/techtorontoorg/) [Twitter](https://twitter.com/techto)
 
---
+---
 
 ## Ottawa, ON
 
@@ -39,7 +41,7 @@ Crowdsourced list of Tech Communities separated by major cities in Canada
 |------|-------------------------------|-----------------|
 | [TechTO](https://www.techto.org/) | Startup, Networking, Events | [LinkedIn](https://www.linkedin.com/company/techtorontoorg/) [Twitter](https://twitter.com/techto)
 
---
+---
 
 ## Kitchener-Waterloo, ON
 
@@ -48,7 +50,7 @@ Crowdsourced list of Tech Communities separated by major cities in Canada
 | [Atlassian Community - Kitchener-Waterloo](https://ace.atlassian.com/kitchener-waterloo/) | Jira, Agile, Confluence | [Web](https://ace.atlassian.com/kitchener-waterloo/)
 | [TechTO](https://www.techto.org/) | Startup, Networking, Events | [LinkedIn](https://www.linkedin.com/company/techtorontoorg/) [Twitter](https://twitter.com/techto)
 
---
+---
 
 ## Hamilton, ON
 
@@ -65,7 +67,7 @@ Crowdsourced list of Tech Communities separated by major cities in Canada
 | [Atlassian Community - Montreal](https://ace.atlassian.com/montreal/) | Jira, Agile, Confluence | [Web](https://ace.atlassian.com/montreal/)
 | [TechTO](https://www.techto.org/) | Startup, Networking, Events | [LinkedIn](https://www.linkedin.com/company/techtorontoorg/) [Twitter](https://twitter.com/techto)
 
---
+---
 
 ## Quebec City, QC
 
