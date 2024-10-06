@@ -28,12 +28,13 @@ Crowdsourced list of Tech Communities separated by major cities in Canada
 | [Cloud Native Community Group - Toronto](https://community.cncf.io/toronto/) | CNCF, Cloud, K8s, Docker | [Discover Cloud Native Community Groups](https://community.cncf.io/) 
 | [Microsoft Reactor Toronto](https://www.meetup.com/microsoft-reactor-toronto/) | Networking, Workshops, Skills, Events | [Web](https://developer.microsoft.com/en-us/reactor/) [Meetup](https://www.meetup.com/microsoft-reactor-toronto/)
 | [HashiCorp User Group - Toronto](https://www.meetup.com/toronto-hashicorp-user-group/) | Cloud, IaC, Security | [Meetup](https://www.meetup.com/toronto-hashicorp-user-group/)
+| [K8SUG Canada](https://www.meetup.com/k8s-ca/) | Kubernetes, OpenShift, Cloud, On-prem | [Meetup](https://www.meetup.com/k8s-ca/) [LinkedIn](https://www.linkedin.com/company/k8sug/)
+| [Nepalese Tech Community in Canada](https://www.facebook.com/groups/nepalesetechcommunityincanada) | Technology, Networking, Mentorship | [Discord](https://discord.gg/kZ54z5vm).
 | [React + Native Toronto](https://www.meetup.com/Toronto-React-Native/) | JavaScript, React, React Native | [Meetup](https://www.meetup.com/Toronto-React-Native/) [Discord](https://discord.com/invite/KcxDrQA)
 | [Tech At Scale](https://www.meetup.com/tech-at-scale-toronto-meetup/) | Technology, Scalability, Performance | [Meetup](https://www.meetup.com/tech-at-scale-toronto-meetup/)
 | [TechinTO](https://www.meetup.com/techinto/) | Technology, Networking | [Meetup](https://www.meetup.com/techinto/) [Instagram](https://www.instagram.com/techinto.event/)
 | [TechTO](https://www.techto.org/) | Startup, Networking, Events | [LinkedIn](https://www.linkedin.com/company/techtorontoorg/) [Twitter](https://twitter.com/techto)
 | [Toronto Open Source Data Infrastructure Meetup](https://www.meetup.com/toronto-open-source-data-infrastructure-meetup/) | Data, Infrastructure, Cloud | [Meetup](https://www.meetup.com/toronto-open-source-data-infrastructure-meetup/)
-| [K8SUG Canada](https://www.meetup.com/k8s-ca/) | Kubernetes, OpenShift, Cloud, On-prem | [Meetup](https://www.meetup.com/k8s-ca/) [LinkedIn](https://www.linkedin.com/company/k8sug/)
 
 ---
 
