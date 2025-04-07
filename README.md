@@ -35,6 +35,7 @@ Crowdsourced list of Tech Communities separated by major cities in Canada
 | [TechinTO](https://www.meetup.com/techinto/) | Technology, Networking | [Meetup](https://www.meetup.com/techinto/) [Instagram](https://www.instagram.com/techinto.event/)
 | [TechTO](https://www.techto.org/) | Startup, Networking, Events | [LinkedIn](https://www.linkedin.com/company/techtorontoorg/) [Twitter](https://twitter.com/techto)
 | [Toronto Open Source Data Infrastructure Meetup](https://www.meetup.com/toronto-open-source-data-infrastructure-meetup/) | Data, Infrastructure, Cloud | [Meetup](https://www.meetup.com/toronto-open-source-data-infrastructure-meetup/)
+| [What's happening in Toronto](https://lu.ma/toronto) | Popular events in Toronto | [Luma](https://lu.ma/toronto)
 
 ---
 
